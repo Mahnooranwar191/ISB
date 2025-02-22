@@ -1,0 +1,469 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ISB.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ISB.a0vqe9admk.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\compnanies_logo\\1904.png",
+      "PackagePath": "staticwebassets\\compnanies_logo\\1904.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\compnanies_logo\\2263.png",
+      "PackagePath": "staticwebassets\\compnanies_logo\\2263.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\compnanies_logo\\512.png",
+      "PackagePath": "staticwebassets\\compnanies_logo\\512.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\compnanies_logo\\5342.png",
+      "PackagePath": "staticwebassets\\compnanies_logo\\5342.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\compnanies_logo\\6692.png",
+      "PackagePath": "staticwebassets\\compnanies_logo\\6692.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\compnanies_logo\\7317",
+      "PackagePath": "staticwebassets\\compnanies_logo"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\compnanies_logo\\7923.png",
+      "PackagePath": "staticwebassets\\compnanies_logo\\7923.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\compnanies_logo\\8055.png",
+      "PackagePath": "staticwebassets\\compnanies_logo\\8055.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\compnanies_logo\\8541.png",
+      "PackagePath": "staticwebassets\\compnanies_logo\\8541.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\compnanies_logo\\947.png",
+      "PackagePath": "staticwebassets\\compnanies_logo\\947.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\compnanies_logo\\9543.jpg",
+      "PackagePath": "staticwebassets\\compnanies_logo\\9543.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\documents\\1464.pdf",
+      "PackagePath": "staticwebassets\\documents\\1464.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\documents\\1591.pdf",
+      "PackagePath": "staticwebassets\\documents\\1591.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\documents\\2259.pdf",
+      "PackagePath": "staticwebassets\\documents\\2259.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\documents\\2287.pdf",
+      "PackagePath": "staticwebassets\\documents\\2287.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\documents\\2570.pdf",
+      "PackagePath": "staticwebassets\\documents\\2570.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\documents\\2868.pdf",
+      "PackagePath": "staticwebassets\\documents\\2868.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\documents\\2915.pdf",
+      "PackagePath": "staticwebassets\\documents\\2915.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\documents\\3681.pdf",
+      "PackagePath": "staticwebassets\\documents\\3681.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\documents\\397.pdf",
+      "PackagePath": "staticwebassets\\documents\\397.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\documents\\4000.pdf",
+      "PackagePath": "staticwebassets\\documents\\4000.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\documents\\4071.pdf",
+      "PackagePath": "staticwebassets\\documents\\4071.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\documents\\4152.pdf",
+      "PackagePath": "staticwebassets\\documents\\4152.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\documents\\4385.pdf",
+      "PackagePath": "staticwebassets\\documents\\4385.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\documents\\4867.pdf",
+      "PackagePath": "staticwebassets\\documents\\4867.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\documents\\5568.pdf",
+      "PackagePath": "staticwebassets\\documents\\5568.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\documents\\5909.pdf",
+      "PackagePath": "staticwebassets\\documents\\5909.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\documents\\6055.pdf",
+      "PackagePath": "staticwebassets\\documents\\6055.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\documents\\7297.pdf",
+      "PackagePath": "staticwebassets\\documents\\7297.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\documents\\8610.pdf",
+      "PackagePath": "staticwebassets\\documents\\8610.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\documents\\9270.pdf",
+      "PackagePath": "staticwebassets\\documents\\9270.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\documents\\9357.pdf",
+      "PackagePath": "staticwebassets\\documents\\9357.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\emp_images\\0b86d3ef-6cc1-444e-8fd6-17e6fbddf49b.png",
+      "PackagePath": "staticwebassets\\emp_images\\0b86d3ef-6cc1-444e-8fd6-17e6fbddf49b.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\emp_images\\1346.png",
+      "PackagePath": "staticwebassets\\emp_images\\1346.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\emp_images\\188.png",
+      "PackagePath": "staticwebassets\\emp_images\\188.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\emp_images\\2607.png",
+      "PackagePath": "staticwebassets\\emp_images\\2607.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\emp_images\\3735.png",
+      "PackagePath": "staticwebassets\\emp_images\\3735.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\emp_images\\4300.pdf",
+      "PackagePath": "staticwebassets\\emp_images\\4300.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\emp_images\\470.png",
+      "PackagePath": "staticwebassets\\emp_images\\470.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\emp_images\\50f51346-8c27-4abe-8dba-5a219329cef1.png",
+      "PackagePath": "staticwebassets\\emp_images\\50f51346-8c27-4abe-8dba-5a219329cef1.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\emp_images\\5212.pdf",
+      "PackagePath": "staticwebassets\\emp_images\\5212.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\emp_images\\5243.png",
+      "PackagePath": "staticwebassets\\emp_images\\5243.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\emp_images\\52aeab2e-75e9-48cc-83af-061b791188a2.png",
+      "PackagePath": "staticwebassets\\emp_images\\52aeab2e-75e9-48cc-83af-061b791188a2.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\emp_images\\5599.pdf",
+      "PackagePath": "staticwebassets\\emp_images\\5599.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\emp_images\\6717.png",
+      "PackagePath": "staticwebassets\\emp_images\\6717.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\emp_images\\7623.png",
+      "PackagePath": "staticwebassets\\emp_images\\7623.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\emp_images\\9055.pdf",
+      "PackagePath": "staticwebassets\\emp_images\\9055.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\emp_images\\9199.jpg",
+      "PackagePath": "staticwebassets\\emp_images\\9199.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\emp_images\\cc513cee-5d08-41db-88c8-dce142d9483d.png",
+      "PackagePath": "staticwebassets\\emp_images\\cc513cee-5d08-41db-88c8-dce142d9483d.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\emp_images\\e8c407c2-a53f-4beb-97d8-9dba15449e65.png",
+      "PackagePath": "staticwebassets\\emp_images\\e8c407c2-a53f-4beb-97d8-9dba15449e65.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahnoor Anwar\\Desktop\\Aptech\\office\\ISB\\ISB\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ISB.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ISB.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ISB.props",
+      "PackagePath": "build\\ISB.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ISB.props",
+      "PackagePath": "buildMultiTargeting\\ISB.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ISB.props",
+      "PackagePath": "buildTransitive\\ISB.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
